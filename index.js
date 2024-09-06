@@ -1,4 +1,4 @@
-console.log('Hello, world!');
+console.log('Hello, Pritesh!');
 
 a = 10
 var a = 10
